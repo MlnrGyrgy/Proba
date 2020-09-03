@@ -1,1 +1,2 @@
-Első sor. De lehetne akár a második sor is, ha úgy van, akkor hazamehetsz.
+Első sor. De lehetne akár a második sor is, de nem kérted.
+Második sor. Tessék. Mivel kérted meg is kaptad.
